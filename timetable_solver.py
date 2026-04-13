@@ -69,7 +69,6 @@ for niveau_id, semestres in niveaux.items():
             if parts:
                 teacher_key = "_".join(parts)
             else:
-                # Pas d'enseignant renseigné → teacher unique par (code, classe)
                 # Cela empêche les faux conflits entre matières sans enseignant
                 teacher_key = f"__NO_TEACHER_{code}_{cname}__"
             ALL_SUBJECTS[code] = {"name": name, "teacher": teacher_key}
