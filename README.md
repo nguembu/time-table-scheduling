@@ -172,8 +172,12 @@ The 94.2 % morning rate confirms that the weighted objective function effectivel
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author
 
 **John Nguembu**  
-Department of Computer Science — University of Yaoundé I  
-INF 4178 — Software Engineering I | April 2026
+Master’s Student in Computer Science  
+Department of Computer Science  
+University of Yaoundé I  
+
+📘 Course: INF 4178 — Software Engineering I  
+📅 April 2026 
